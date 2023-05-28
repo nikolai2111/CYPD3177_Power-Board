@@ -5548,7 +5548,7 @@
     (property "Reference" "D3" (at 200.66 134.3025 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
-    (property "Value" "LTST-C190EKT\n" (at 200.66 136.8425 90)
+    (property "Value" "LTST-C190EKT" (at 200.66 136.8425 90)
       (effects (font (size 1.27 1.27)) (justify right))
     )
     (property "Footprint" "LED_SMD:LED_0603_1608Metric_Pad1.05x0.95mm_HandSolder" (at 196.85 133.35 0)
